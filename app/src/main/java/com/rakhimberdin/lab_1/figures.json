@@ -1,0 +1,64 @@
+[
+  {"name":"Circle",
+    "centerX":0,
+    "centerY":0,
+    "radius":100,
+    "depth":155,
+    "innerColor":[0,0,255],
+    "lineColor":[255,0,0]
+  },
+  {
+    "name":"Triangle",
+    "lineLength":350,
+    "depth":155,
+    "innerColor":[0,0,255],
+    "lineColor":[255,0,0]
+  },
+  {
+    "name":"Polygon",
+    "vertices":5,
+    "depth":155,
+    "innerColor":[0,0,255],
+    "lineColor":[200,110,255]
+  },
+  {
+    "name":"Circle",
+    "centerX":0,
+    "centerY":0,
+    "radius":300,
+    "depth":155,
+    "innerColor":[20,120,77],
+    "lineColor":[255,200,50]
+  },
+  {
+    "name":"Polygon",
+    "vertices":8,
+    "depth":155,
+    "innerColor":[0,0,255],
+    "lineColor":[200,110,255]
+  },
+  {
+    "name":"Ellipse",
+    "lineLengthA":300,
+    "lineLengthB": 500,
+    "depth":155,
+    "innerColor":[0,0,255],
+    "lineColor":[200,110,255]
+  },
+  {
+    "name":"Polygon",
+    "vertices":3,
+    "depth":155,
+    "innerColor":[0,0,255],
+    "lineColor":[200,110,255]
+  },
+  {
+    "name":"Square",
+    "lineLength":356,
+    "depth":155,
+    "innerColor":[0,0,255],
+    "lineColor":[200,110,0]
+  }
+]
+
+
